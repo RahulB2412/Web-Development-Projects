@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang = "eng">
+
+<Head>
+<meta charset = "UTF-8">
+
+<title> Recipes from India </title>
+
+<img src = "C:\Users\rhlbh\OneDrive\Documents\Documents - Old\Flask Project\Personal Blog Project\My First Website\Recipes Website\india-2731817_1280.jpg" alt="Indian Thali" height="310" width="310">
+
+</Head>
+
+<Body>
+
+<h2> A collection of Recipes from my home country </h2> 
+
+<ul>
+
+<li> <a href ="C:\Users\rhlbh\OneDrive\Documents\Documents - Old\Flask Project\Personal Blog Project\My First Website\Recipes Website\Hyderabadi Chicken Biryani.html"> Hyderabadi Chicken Biryani </a> </li>
+<li> <a href = "C:\Users\rhlbh\OneDrive\Documents\Documents - Old\Flask Project\Personal Blog Project\My First Website\Recipes Website\Aloo Paratha .html"> Aloo Paratha </a></li>
+<li> <a href = "C:\Users\rhlbh\OneDrive\Documents\Documents - Old\Flask Project\Personal Blog Project\My First Website\Recipes Website\Rajma Masala .html"> Rajma Masala </a></li>
+
+</html>
+
